@@ -5,7 +5,7 @@ import java.awt.datatransfer.Transferable;
 import java.io.*;
 
 public class Parser {
-    private static final String DIR_PATH = "/Users/bytedance/Documents/";
+    private static final String DIR_PATH = "/Users/usename/Documents/";
     private static final String OUTPUT_FILE = "output.txt";
 
     public static File getFiles() {
